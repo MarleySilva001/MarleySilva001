@@ -2,7 +2,7 @@
 
 
 
-### Sou um estudante da escola sesi senai de São José 🏢, tenho 16 anos, gosto de matématica ➕, e no geral coisas relacionadas a lógica. Atualmente meu conhecimento sobre programação é bem básico, sei fazer algumas coisas no visual studio code e no git bash 🕹.
+### Sou um estudante da escola sesi senai de São José 🏢, tenho 16 anos, gosto de matématica e em geral coisas relacionadas a lógica ⚽. Atualmente meu conhecimento sobre programação é bem básico, sei fazer algumas coisas no visual studio code e no git bash 🕹.
 
 
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="40" height="40"/>         
