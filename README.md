@@ -1,4 +1,4 @@
 # Olá, Meu nome é Marley
 
-?username=MarleySilva001&show_icons=true&theme=radical
+![MarleySilva001's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarleySilva001&show_icons=true&theme=radical)
 
