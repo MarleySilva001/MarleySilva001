@@ -5,7 +5,8 @@
 ### Sou um estudante da escola sesi senai de São José 🏢. Atualmente meu conhecimento sobre programação é bem básico, sei fazer algumas coisas no visual studio code e no git bash 🕹.
 
 
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="40" height="40"/>         
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="40" height="40"/>  
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40" height="40" />
 
 ## Estou aprendendo
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/> 
@@ -21,4 +22,3 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarleySilva001&layout=compact)](https://github.com/MarleySilva001/github-readme-stats)
 
-![Snake animation](https://github.com/MarleySilva001/MarleySilva001/blob/output/github-contribution-grid-snake.svg)
