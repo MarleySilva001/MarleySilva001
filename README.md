@@ -21,6 +21,6 @@
 ## Git Status
 ![MarleySilva001's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarleySilva001&show_icons=true&theme=tokyonight)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarleySilva001&layout=compact)](https://github.com/MarleySilva001/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarleySilva001&layout=compact&theme=tokyonight)](https://github.com/MarleySilva001/github-readme-stats)
 
 ![](https://komarev.com/ghpvc/?username=MarleySilva001&color=66cdaa)
